@@ -75,3 +75,14 @@ Files for vala development with %{name}.
 %files vala
 %{_datadir}/vala/vapi/%{name}.*
 
+
+
+%changelog
+* Fri Jun 15 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.1.90-2
++ Revision: 805911
+- rebuild for clutter libs
+
+* Thu Feb 23 2012 Andrey Bondrov <abondrov@mandriva.org> 0.1.90-1
++ Revision: 779300
+- imported package emerillon
+
