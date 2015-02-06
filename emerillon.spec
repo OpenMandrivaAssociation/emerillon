@@ -2,7 +2,7 @@
 
 Name:		emerillon
 Version:	0.1.90
-Release:	2
+Release:	3
 Summary:	A map viewer for GNOME
 Group:		Graphical desktop/GNOME
 License:	GPLv2+ and LGPLv2+
