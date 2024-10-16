@@ -6,7 +6,7 @@ Release:	3
 Summary:	A map viewer for GNOME
 Group:		Graphical desktop/GNOME
 License:	GPLv2+ and LGPLv2+
-URL:		http://projects.gnome.org/emerillon/
+URL:		https://projects.gnome.org/emerillon/
 Source0:	http://download.gnome.org/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
 
 BuildRequires:	intltool
